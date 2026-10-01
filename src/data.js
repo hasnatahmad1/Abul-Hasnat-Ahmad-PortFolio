@@ -85,9 +85,9 @@ export const projects = [
   },
   {
     title: 'Agent2Agent Communication',
-    category: 'ai',
+    category: 'Communication',
     description: 'An implementation of agent-to-agent (A2A) communication.',
-    stack: ['TypeScript', 'A2A'],
+    stack: ['Spring Boot', 'A2A'],
   },
   {
     title: 'Sales Data Pipeline',
